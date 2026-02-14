@@ -1,0 +1,10 @@
+User
+  ↓
+AI Agent (Agent Builder)
+  ↓
+Search Tool / ES|QL
+  ↓
+Elasticsearch Indexes
+(tasks, meetings, team)
+  ↓
+Structured Response
